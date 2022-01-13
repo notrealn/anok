@@ -1,0 +1,21 @@
+type: UnitFactory
+name: anokmaker
+size: 2
+plans: [
+  {
+    unit: anok
+    time: 1000
+    requirements: [
+      silicon/1
+    ]
+  }
+]
+consumes: {
+  power: 1.2
+}
+requirements: [
+  lead/75
+  silicon/40
+]
+research: ground-factory
+category: units
