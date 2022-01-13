@@ -1,0 +1,8 @@
+name: "q-anok"
+displayName: "foo"
+author: notrealn
+description: "Bbfashbjhcbabfhsbafbhajbf"
+version: "1.0"
+minGameVersion: "135"
+dependencies: [ ]
+hidden: false

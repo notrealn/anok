@@ -1,0 +1,12 @@
+type: flying
+name: anok
+description: h
+
+weapons: [
+  {
+    bullet: {
+      type: MissileBulletType
+      damage: 9000
+    }
+  }
+]
